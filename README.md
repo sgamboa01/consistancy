@@ -103,12 +103,12 @@ The purpose of the Consistency application is to help users create and maintain 
 ![image](https://github.com/user-attachments/assets/18fa862c-65bb-4260-8899-cb9a72b7399a)
 
 ## 3.2 Domain Model
+![image](https://github.com/user-attachments/assets/fbd22ed0-1a25-49a9-a3cd-0c4c23475e9f)
 
-![image](https://github.com/user-attachments/assets/852bde95-0772-476c-a801-965382210ca4)
 
 ## 3.3 Class Diagram
+![image](https://github.com/user-attachments/assets/847f62f6-4700-41ae-8e85-f9580ba32493)
 
-![image](https://github.com/user-attachments/assets/c46860bc-e6b4-45e1-be81-25cbfb8b79f9)
 
 ## 3.4 Sequence Diagram
 
