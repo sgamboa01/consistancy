@@ -1,6 +1,9 @@
 # Consistency App
 The purpose of the Consistency application is to help users create and maintain healthy habits by applying social accountability to motivate the user to keep up with their goals. 
 
+Presentation:
+https://youtu.be/UTt_N1WGooI
+
 # Section 1: Document Roadmap #
 
 ## 1.1	Purpose of the Document
