@@ -159,6 +159,12 @@ The activity diagram below shows the activity and flow for a user creating a new
 ![image](https://github.com/user-attachments/assets/f2125494-9da6-40f9-8074-98d58f84d112)
 ![image](https://github.com/user-attachments/assets/7c9563e5-9db5-433a-b268-7d05cf57984b)
 
+## Prototype
+![image](https://github.com/user-attachments/assets/81ecea61-3a48-425f-9482-bf900959243b)
+![image](https://github.com/user-attachments/assets/c7877588-011d-4f09-8744-dcc24b3071ca)
+
+
+
 ## Section 4: Design Pattern
 The Consistency App follows a layered microservice architecture design pattern and uses the General Responsibility Assignment Software Pattern. As shown in the components diagram, my application follows the information expert and controller pattern with the use of the subsystem components, like UserManagement, Habit Management, Goal Management, and SystemDatabase. UserManagement components handle information that concerns the users access to their session and profile. Habit Management and Goal Management components manage the habits and goals. This includes managing logic and acting as use-case controllers for creating and maintaining said habits and goals. The application design also illustrates the low coupling by separating external components from the core system logic and isolating the database.
 
