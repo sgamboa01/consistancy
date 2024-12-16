@@ -111,7 +111,8 @@ The purpose of the Consistency application is to help users create and maintain 
 
 UC1: Request to join an established Community group
 
-![image](https://github.com/user-attachments/assets/f8321fce-40ce-428d-9223-dc569d9ce033)
+![image](https://github.com/user-attachments/assets/2e25b2a9-4643-4232-a62a-015d7e02e04a)
+
 
 
 UC2: Create New Community group
